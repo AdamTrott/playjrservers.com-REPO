@@ -1,4 +1,1 @@
-playjrservers.com-REPO
-======================
-
-playJRservers.com REPO
+This is the PlayJRservers public REPO
